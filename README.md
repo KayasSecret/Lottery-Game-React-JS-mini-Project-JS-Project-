@@ -8,6 +8,11 @@ Interactive Background: Randomly changing background colors with every ticket pu
 Winning Animation: A congratulatory message with a celebratory sound effe
 Responsive Design: Optimized for desktop and mobile devices
 
+🧑‍💻 Technologies Used
+React.js: Frontend framework.
+JavaScript (ES6+): Logic and interactivity.
+CSS: Styling and animations.
+
 lottery-game/
 │
 ├── public/               # Static assets
