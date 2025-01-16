@@ -1,0 +1,22 @@
+.btnLot {
+    background-color: #0084ac; /* Default background color */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor */
+    transition: all 0.3s ease; /* Smooth transition */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.btnLot:hover {
+    background-color: #45a049; /* Hover background color */
+    transform: scale(1.1); /* Scale up the button */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Enhanced shadow */
+}
+
+.btnLot:active {
+    transform: scale(0.95); /* Slight shrink on click */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Smaller shadow */
+}

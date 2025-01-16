@@ -1,0 +1,9 @@
+.ticketDiv {
+    border: 1px solid pink;
+    border-radius: 1rem;
+    width: 10rem;
+    height: 10rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    background-color: rgb(0, 89, 255);
+}
