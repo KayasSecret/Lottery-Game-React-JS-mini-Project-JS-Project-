@@ -1,4 +1,4 @@
- Lottery Game
+🎲 Lottery Game
 A fun and interactive lottery game built using React.js. Test your luck by buying tickets and see if you hit the winning combination! The game also includes animations, dynamic ackground changes, and a celebratory sound effect when you win.
 
 🚀 Features
